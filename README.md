@@ -1,4 +1,9 @@
 # Tweet Sentiment Classification
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3a1da1f2%2c100%3a0f2027&height=230&section=header&text=Tweet+Sentiment+Classification&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=NLP+%7c+Social+Media+%7c+Sentiment+Analysis&descSize=16&descAlignY=55&animation=fadeIn" alt="Tweet Sentiment Classification project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 An NLP classification notebook that labels tweets as positive or negative using TF-IDF features and conventional machine learning models.
 
